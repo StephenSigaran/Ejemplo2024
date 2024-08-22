@@ -1,0 +1,31 @@
+body {
+    background-color: navy;
+}
+
+h1 {
+    text-align: justify;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em; /* o en px, por ejemplo: 48px */
+}
+
+p {
+    color: white;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: justify;
+    font-size: 100%; /* Este valor es correcto y representa el tamaño predeterminado de la fuente */
+}
+
+.text {
+    text-align: justify;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em; /* o en px, por ejemplo: 32px */
+}
+
+a {
+    color: purple;
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 100%; /* Esto es correcto */
+}
+
